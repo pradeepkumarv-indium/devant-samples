@@ -1,0 +1,4 @@
+[package]
+org = "I6274"
+name = "music_for_weather"
+version = "0.1.0"

@@ -1,0 +1,12 @@
+https://github.com/wso2/integration-samples/tree/main/ballerina-integrator/music-for-weather
+https://www.weatherapi.com/signup.aspx
+
+vpkdev111@gmail.com/ weatherapi@123
+
+API key: fc8f70a860da4f2c80c60022252506
+
+vpkdev111@gmail.com/spotify@123
+
+Spotify cliend ID/secret
+e28d87baeee5456183413e44182283ce/8fd4d989f1fc40159cb24cb28eb7def8
+https://www.weatherapi.com/docs/weather_conditions.json

@@ -1,0 +1,597 @@
+{
+    "playlists": {
+        "href": "https://api.spotify.com/v1/search?offset=0&limit=20&query=Mist&type=playlist",
+        "limit": 20,
+        "next": "https://api.spotify.com/v1/search?offset=20&limit=20&query=Mist&type=playlist",
+        "offset": 0,
+        "previous": null,
+        "total": 24,
+        "items": [
+            {
+                "collaborative": false,
+                "description": "",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0HJQMOMrxP29l0yOYmVW6k"
+                },
+                "href": "https://api.spotify.com/v1/playlists/0HJQMOMrxP29l0yOYmVW6k",
+                "id": "0HJQMOMrxP29l0yOYmVW6k",
+                "images": [
+                    {
+                        "height": null,
+                        "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8498b0bbd8adaa118bf361a37f",
+                        "width": null
+                    }
+                ],
+                "name": "Mister bombastic",
+                "owner": {
+                    "display_name": "Locolox",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/xtd7w8hafqjio4hmq5q0jqzkg"
+                    },
+                    "href": "https://api.spotify.com/v1/users/xtd7w8hafqjio4hmq5q0jqzkg",
+                    "id": "xtd7w8hafqjio4hmq5q0jqzkg",
+                    "type": "user",
+                    "uri": "spotify:user:xtd7w8hafqjio4hmq5q0jqzkg"
+                },
+                "primary_color": null,
+                "public": true,
+                "snapshot_id": "AAAACnWG91DDnfSaWHNAWcekyRVpXuhX",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/0HJQMOMrxP29l0yOYmVW6k/tracks",
+                    "total": 8
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:0HJQMOMrxP29l0yOYmVW6k"
+            },
+            {
+                "collaborative": false,
+                "description": "ishq hai song , ishq hai mismatched , ishq hai mistahced series song , #ishqhai ",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/1KBc6BeOLoaP6ZL7L0fKgj"
+                },
+                "href": "https://api.spotify.com/v1/playlists/1KBc6BeOLoaP6ZL7L0fKgj",
+                "id": "1KBc6BeOLoaP6ZL7L0fKgj",
+                "images": [
+                    {
+                        "height": null,
+                        "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845b0e2188a5ec2a7080ab1816",
+                        "width": null
+                    }
+                ],
+                "name": "Ishq Hai Yeh Ishq Hai ♥️",
+                "owner": {
+                    "display_name": "Music Box",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/9s87naeckijnd6qs439icv9h1"
+                    },
+                    "href": "https://api.spotify.com/v1/users/9s87naeckijnd6qs439icv9h1",
+                    "id": "9s87naeckijnd6qs439icv9h1",
+                    "type": "user",
+                    "uri": "spotify:user:9s87naeckijnd6qs439icv9h1"
+                },
+                "primary_color": null,
+                "public": true,
+                "snapshot_id": "AAAAOo9uMvOuC/y5jHhQh/RdUswy2yeu",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/1KBc6BeOLoaP6ZL7L0fKgj/tracks",
+                    "total": 32
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:1KBc6BeOLoaP6ZL7L0fKgj"
+            },
+            {
+                "collaborative": false,
+                "description": "",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/02jpzxzRTqcdJz3M28WWm0"
+                },
+                "href": "https://api.spotify.com/v1/playlists/02jpzxzRTqcdJz3M28WWm0",
+                "id": "02jpzxzRTqcdJz3M28WWm0",
+                "images": [
+                    {
+                        "height": null,
+                        "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8432b0f28327eb3cc5eab102dd",
+                        "width": null
+                    }
+                ],
+                "name": "MISTRI BHAIYA KI PLAYLIST",
+                "owner": {
+                    "display_name": "AMAN",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/4tpnm82wzu769dgwmtj178omf"
+                    },
+                    "href": "https://api.spotify.com/v1/users/4tpnm82wzu769dgwmtj178omf",
+                    "id": "4tpnm82wzu769dgwmtj178omf",
+                    "type": "user",
+                    "uri": "spotify:user:4tpnm82wzu769dgwmtj178omf"
+                },
+                "primary_color": null,
+                "public": true,
+                "snapshot_id": "AAAAFjFNSPu5XhUWCklFzdktvcLfiapd",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/02jpzxzRTqcdJz3M28WWm0/tracks",
+                    "total": 18
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:02jpzxzRTqcdJz3M28WWm0"
+            },
+            {
+                "collaborative": false,
+                "description": "Agar mai  bata du, mere dil mai kya haii...",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/7vnd8GlKrfazw3sUQ8gt0q"
+                },
+                "href": "https://api.spotify.com/v1/playlists/7vnd8GlKrfazw3sUQ8gt0q",
+                "id": "7vnd8GlKrfazw3sUQ8gt0q",
+                "images": [
+                    {
+                        "height": null,
+                        "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84a8bab7b7b0f2de7afb92fc21",
+                        "width": null
+                    }
+                ],
+                "name": "Raju Mistri Playlist",
+                "owner": {
+                    "display_name": "Monark",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/31gomtje2lykpoujjr7pl57lrys4"
+                    },
+                    "href": "https://api.spotify.com/v1/users/31gomtje2lykpoujjr7pl57lrys4",
+                    "id": "31gomtje2lykpoujjr7pl57lrys4",
+                    "type": "user",
+                    "uri": "spotify:user:31gomtje2lykpoujjr7pl57lrys4"
+                },
+                "primary_color": null,
+                "public": true,
+                "snapshot_id": "AAAARPbXD3SZZa4Ws5WfsgDaLYJMuNvQ",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/7vnd8GlKrfazw3sUQ8gt0q/tracks",
+                    "total": 55
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:7vnd8GlKrfazw3sUQ8gt0q"
+            },
+            {
+                "collaborative": false,
+                "description": "",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/5pDDTFiNYnXCcH0SDiqIQ6"
+                },
+                "href": "https://api.spotify.com/v1/playlists/5pDDTFiNYnXCcH0SDiqIQ6",
+                "id": "5pDDTFiNYnXCcH0SDiqIQ6",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://mosaic.scdn.co/640/ab67616d00001e020ab3c3a2d927719c8b21643fab67616d00001e021a8c4618eda885a406958dd0ab67616d00001e0238ef5b6987058fd62d364a55ab67616d00001e02f19289cbcfb2ca2fbda57043",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://mosaic.scdn.co/300/ab67616d00001e020ab3c3a2d927719c8b21643fab67616d00001e021a8c4618eda885a406958dd0ab67616d00001e0238ef5b6987058fd62d364a55ab67616d00001e02f19289cbcfb2ca2fbda57043",
+                        "width": 300
+                    },
+                    {
+                        "height": 60,
+                        "url": "https://mosaic.scdn.co/60/ab67616d00001e020ab3c3a2d927719c8b21643fab67616d00001e021a8c4618eda885a406958dd0ab67616d00001e0238ef5b6987058fd62d364a55ab67616d00001e02f19289cbcfb2ca2fbda57043",
+                        "width": 60
+                    }
+                ],
+                "name": "Mr Indian hacker 😈😈",
+                "owner": {
+                    "display_name": "Ayush samal 😈😈",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/31x7xgwzxwyrswalqjsheenyqgoy"
+                    },
+                    "href": "https://api.spotify.com/v1/users/31x7xgwzxwyrswalqjsheenyqgoy",
+                    "id": "31x7xgwzxwyrswalqjsheenyqgoy",
+                    "type": "user",
+                    "uri": "spotify:user:31x7xgwzxwyrswalqjsheenyqgoy"
+                },
+                "primary_color": null,
+                "public": true,
+                "snapshot_id": "AAAAW74EuxBH8Jl5vDc0M1Gnf7tDWaG+",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/5pDDTFiNYnXCcH0SDiqIQ6/tracks",
+                    "total": 78
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:5pDDTFiNYnXCcH0SDiqIQ6"
+            },
+            {
+                "collaborative": false,
+                "description": "Too many wishes, too many mistakes, that we made, made us",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0PCx8QnEt34ew883FC2RD6"
+                },
+                "href": "https://api.spotify.com/v1/playlists/0PCx8QnEt34ew883FC2RD6",
+                "id": "0PCx8QnEt34ew883FC2RD6",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://mosaic.scdn.co/640/ab67616d00001e0200c7fb9784fa0cbc02f567a6ab67616d00001e020d3449f333a83a25feb423f8ab67616d00001e024cdf85ea439ad82b1b0a69eaab67616d00001e025d7a296e99b415bc012c03e3",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://mosaic.scdn.co/300/ab67616d00001e0200c7fb9784fa0cbc02f567a6ab67616d00001e020d3449f333a83a25feb423f8ab67616d00001e024cdf85ea439ad82b1b0a69eaab67616d00001e025d7a296e99b415bc012c03e3",
+                        "width": 300
+                    },
+                    {
+                        "height": 60,
+                        "url": "https://mosaic.scdn.co/60/ab67616d00001e0200c7fb9784fa0cbc02f567a6ab67616d00001e020d3449f333a83a25feb423f8ab67616d00001e024cdf85ea439ad82b1b0a69eaab67616d00001e025d7a296e99b415bc012c03e3",
+                        "width": 60
+                    }
+                ],
+                "name": "My heart❤️‍🩹🪽",
+                "owner": {
+                    "display_name": "P R A G A T I",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/31twnxeyuys4jrh5t5wqsvovzzmy"
+                    },
+                    "href": "https://api.spotify.com/v1/users/31twnxeyuys4jrh5t5wqsvovzzmy",
+                    "id": "31twnxeyuys4jrh5t5wqsvovzzmy",
+                    "type": "user",
+                    "uri": "spotify:user:31twnxeyuys4jrh5t5wqsvovzzmy"
+                },
+                "primary_color": null,
+                "public": true,
+                "snapshot_id": "AAABc9TT2iLFKuAFhD4cJYY1vS2E4nCJ",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/0PCx8QnEt34ew883FC2RD6/tracks",
+                    "total": 133
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:0PCx8QnEt34ew883FC2RD6"
+            },
+            {
+                "collaborative": false,
+                "description": "",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/4GxBiKU5sPyKBM5F94Pt90"
+                },
+                "href": "https://api.spotify.com/v1/playlists/4GxBiKU5sPyKBM5F94Pt90",
+                "id": "4GxBiKU5sPyKBM5F94Pt90",
+                "images": [
+                    {
+                        "height": null,
+                        "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da842ace278f58ba2c12ffdb64c5",
+                        "width": null
+                    }
+                ],
+                "name": "Mistri Playlist",
+                "owner": {
+                    "display_name": "Ratan",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/31w6snba4itg24lnkb5xid3nrzye"
+                    },
+                    "href": "https://api.spotify.com/v1/users/31w6snba4itg24lnkb5xid3nrzye",
+                    "id": "31w6snba4itg24lnkb5xid3nrzye",
+                    "type": "user",
+                    "uri": "spotify:user:31w6snba4itg24lnkb5xid3nrzye"
+                },
+                "primary_color": null,
+                "public": true,
+                "snapshot_id": "AAABa8s/jHXSGZcj9KrXKssPMlwkqFJC",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/4GxBiKU5sPyKBM5F94Pt90/tracks",
+                    "total": 176
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:4GxBiKU5sPyKBM5F94Pt90"
+            },
+            {
+                "collaborative": false,
+                "description": "",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3C324t4WDN49i4VyISekvV"
+                },
+                "href": "https://api.spotify.com/v1/playlists/3C324t4WDN49i4VyISekvV",
+                "id": "3C324t4WDN49i4VyISekvV",
+                "images": [
+                    {
+                        "height": null,
+                        "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8429953a31078f38774a01267b",
+                        "width": null
+                    }
+                ],
+                "name": "Minecraft songs",
+                "owner": {
+                    "display_name": "qqq",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/31tmnna5llkyxadn3vvvwelbvcge"
+                    },
+                    "href": "https://api.spotify.com/v1/users/31tmnna5llkyxadn3vvvwelbvcge",
+                    "id": "31tmnna5llkyxadn3vvvwelbvcge",
+                    "type": "user",
+                    "uri": "spotify:user:31tmnna5llkyxadn3vvvwelbvcge"
+                },
+                "primary_color": null,
+                "public": true,
+                "snapshot_id": "AAAAI7LtZGw6z5qPBjTfMtEdtvywTXl8",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/3C324t4WDN49i4VyISekvV/tracks",
+                    "total": 304
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:3C324t4WDN49i4VyISekvV"
+            },
+            null,
+            {
+                "collaborative": false,
+                "description": "DewDrops &amp; Mist രാവിലെയും വൈകുന്നേരങ്ങളും ഒരുകപ്പ് ചായയുമായി Tv ക്ക് മുന്നിൽ കാത്തിരുന്ന ഒരു തലമുറയുടെ Nostalgic Albums❤️‍🩹",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3i38GKH3HkjzG6Rs5OAMF6"
+                },
+                "href": "https://api.spotify.com/v1/playlists/3i38GKH3HkjzG6Rs5OAMF6",
+                "id": "3i38GKH3HkjzG6Rs5OAMF6",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://mosaic.scdn.co/640/ab67616d00001e02249f561cf926f98e3ee46e0bab67616d00001e0233214a0d64b3b80af86b39cfab67616d00001e02a21f1a1c9f6000a32012211fab67616d00001e02a6b646221fe9d37cfb6185c6",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://mosaic.scdn.co/300/ab67616d00001e02249f561cf926f98e3ee46e0bab67616d00001e0233214a0d64b3b80af86b39cfab67616d00001e02a21f1a1c9f6000a32012211fab67616d00001e02a6b646221fe9d37cfb6185c6",
+                        "width": 300
+                    },
+                    {
+                        "height": 60,
+                        "url": "https://mosaic.scdn.co/60/ab67616d00001e02249f561cf926f98e3ee46e0bab67616d00001e0233214a0d64b3b80af86b39cfab67616d00001e02a21f1a1c9f6000a32012211fab67616d00001e02a6b646221fe9d37cfb6185c6",
+                        "width": 60
+                    }
+                ],
+                "name": "Malayalam Album Songs Evergreen 😍❤️‍🩹",
+                "owner": {
+                    "display_name": "KURUPz",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/ue73nlngq7vsjgwgpihunahqe"
+                    },
+                    "href": "https://api.spotify.com/v1/users/ue73nlngq7vsjgwgpihunahqe",
+                    "id": "ue73nlngq7vsjgwgpihunahqe",
+                    "type": "user",
+                    "uri": "spotify:user:ue73nlngq7vsjgwgpihunahqe"
+                },
+                "primary_color": null,
+                "public": true,
+                "snapshot_id": "AAAAG+VeNvvQ9QLZOz72yufm2YalrtY1",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/3i38GKH3HkjzG6Rs5OAMF6/tracks",
+                    "total": 15
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:3i38GKH3HkjzG6Rs5OAMF6"
+            },
+            {
+                "collaborative": false,
+                "description": "Some mistakes get made that&#x27;s alright, that&#x27;s okay!",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0MBBSrJSrYlnG4yJp1PviH"
+                },
+                "href": "https://api.spotify.com/v1/playlists/0MBBSrJSrYlnG4yJp1PviH",
+                "id": "0MBBSrJSrYlnG4yJp1PviH",
+                "images": [
+                    {
+                        "height": null,
+                        "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8477f69910986502b67ea9e6c8",
+                        "width": null
+                    }
+                ],
+                "name": "Broken Friendships <3",
+                "owner": {
+                    "display_name": "Janani",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/z0ke30a1cxt7mix50uqo7961f"
+                    },
+                    "href": "https://api.spotify.com/v1/users/z0ke30a1cxt7mix50uqo7961f",
+                    "id": "z0ke30a1cxt7mix50uqo7961f",
+                    "type": "user",
+                    "uri": "spotify:user:z0ke30a1cxt7mix50uqo7961f"
+                },
+                "primary_color": null,
+                "public": true,
+                "snapshot_id": "AAAAT1YKYCc6eRzsMtr91EKkfnt6i5Y+",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/0MBBSrJSrYlnG4yJp1PviH/tracks",
+                    "total": 63
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:0MBBSrJSrYlnG4yJp1PviH"
+            },
+            {
+                "collaborative": false,
+                "description": "You can think that you’re in love, but you’re really just in pain. Accepting this, is the only way out...",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3lTtpQErdd43X6APjA0x2q"
+                },
+                "href": "https://api.spotify.com/v1/playlists/3lTtpQErdd43X6APjA0x2q",
+                "id": "3lTtpQErdd43X6APjA0x2q",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://mosaic.scdn.co/640/ab67616d00001e0213584782bb6d165483d296edab67616d00001e02459d675aa0b6f3b211357370ab67616d00001e02639c6811b5d0c6cfb145de3aab67616d00001e026f04e53cb5309f8e88286842",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://mosaic.scdn.co/300/ab67616d00001e0213584782bb6d165483d296edab67616d00001e02459d675aa0b6f3b211357370ab67616d00001e02639c6811b5d0c6cfb145de3aab67616d00001e026f04e53cb5309f8e88286842",
+                        "width": 300
+                    },
+                    {
+                        "height": 60,
+                        "url": "https://mosaic.scdn.co/60/ab67616d00001e0213584782bb6d165483d296edab67616d00001e02459d675aa0b6f3b211357370ab67616d00001e02639c6811b5d0c6cfb145de3aab67616d00001e026f04e53cb5309f8e88286842",
+                        "width": 60
+                    }
+                ],
+                "name": "some mistakes get made, that’s alright, that’s okay.",
+                "owner": {
+                    "display_name": "luxjxx",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/ush76izgzsclqzjuev8dec9wt"
+                    },
+                    "href": "https://api.spotify.com/v1/users/ush76izgzsclqzjuev8dec9wt",
+                    "id": "ush76izgzsclqzjuev8dec9wt",
+                    "type": "user",
+                    "uri": "spotify:user:ush76izgzsclqzjuev8dec9wt"
+                },
+                "primary_color": null,
+                "public": true,
+                "snapshot_id": "AAAAJhflb4bl6h+ak4yUuNnQKT5za+Ni",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/3lTtpQErdd43X6APjA0x2q/tracks",
+                    "total": 30
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:3lTtpQErdd43X6APjA0x2q"
+            },
+            null,
+            {
+                "collaborative": false,
+                "description": "",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/2F3RUET4rCmYeH74U9jtDY"
+                },
+                "href": "https://api.spotify.com/v1/playlists/2F3RUET4rCmYeH74U9jtDY",
+                "id": "2F3RUET4rCmYeH74U9jtDY",
+                "images": [
+                    {
+                        "height": null,
+                        "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84adb7bef9eb8c5ec770da8cd7",
+                        "width": null
+                    }
+                ],
+                "name": "Raju Mistri.",
+                "owner": {
+                    "display_name": "FrEnCh fRy",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/31kjidxj5pdlib6hicbiyclseufa"
+                    },
+                    "href": "https://api.spotify.com/v1/users/31kjidxj5pdlib6hicbiyclseufa",
+                    "id": "31kjidxj5pdlib6hicbiyclseufa",
+                    "type": "user",
+                    "uri": "spotify:user:31kjidxj5pdlib6hicbiyclseufa"
+                },
+                "primary_color": null,
+                "public": true,
+                "snapshot_id": "AAAAT7foJLSMOiAOntsQ6pw+/4SLVItT",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/2F3RUET4rCmYeH74U9jtDY/tracks",
+                    "total": 53
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:2F3RUET4rCmYeH74U9jtDY"
+            },
+            null,
+            null,
+            null,
+            {
+                "collaborative": false,
+                "description": "Make no mistake this one is for the girls - TikTok: @sarahalessa_  • IG: sarah.alessandrini - party songs, rap, EDM, R&amp;B, hip hop, Cobra Starship, Bruce Vine, Mac Miller, The Killers, Waka Flocka, Pittbull, Nelly Furtado, Soulja Boy, Lupe Fiasco, Tiësto",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/7qf1aRjaEYCc9tmgVqji6K"
+                },
+                "href": "https://api.spotify.com/v1/playlists/7qf1aRjaEYCc9tmgVqji6K",
+                "id": "7qf1aRjaEYCc9tmgVqji6K",
+                "images": [
+                    {
+                        "height": null,
+                        "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da849418bae3043bdbdb01dac6c6",
+                        "width": null
+                    }
+                ],
+                "name": "frat songs that could resurrect me",
+                "owner": {
+                    "display_name": "sarah alessandrini",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/saraha724"
+                    },
+                    "href": "https://api.spotify.com/v1/users/saraha724",
+                    "id": "saraha724",
+                    "type": "user",
+                    "uri": "spotify:user:saraha724"
+                },
+                "primary_color": null,
+                "public": true,
+                "snapshot_id": "AAAAp0l7H3eBrq/COn1MzpAyLgxTvTNV",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/7qf1aRjaEYCc9tmgVqji6K/tracks",
+                    "total": 92
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:7qf1aRjaEYCc9tmgVqji6K"
+            },
+            {
+                "collaborative": false,
+                "description": "big sag energy, fun until you get to know her, indecisive, never perfect, always making mistakes, afraid of commitment.",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3543hAwDtPgsYaEoIGETsU"
+                },
+                "href": "https://api.spotify.com/v1/playlists/3543hAwDtPgsYaEoIGETsU",
+                "id": "3543hAwDtPgsYaEoIGETsU",
+                "images": [
+                    {
+                        "height": null,
+                        "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da841fd5d94c758c465e69f0205e",
+                        "width": null
+                    }
+                ],
+                "name": "for the bolter girls 🤍",
+                "owner": {
+                    "display_name": "Caroline Eve Biedka",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/12161505138"
+                    },
+                    "href": "https://api.spotify.com/v1/users/12161505138",
+                    "id": "12161505138",
+                    "type": "user",
+                    "uri": "spotify:user:12161505138"
+                },
+                "primary_color": null,
+                "public": true,
+                "snapshot_id": "AAAASj7vJLZEibo28lFxscjAhFxQQpFj",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/3543hAwDtPgsYaEoIGETsU/tracks",
+                    "total": 68
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:3543hAwDtPgsYaEoIGETsU"
+            },
+            {
+                "collaborative": false,
+                "description": "Lovely beautiful songs that give you shivers.",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0mXaXYQRye5CkMQyNNZ7k6"
+                },
+                "href": "https://api.spotify.com/v1/playlists/0mXaXYQRye5CkMQyNNZ7k6",
+                "id": "0mXaXYQRye5CkMQyNNZ7k6",
+                "images": [
+                    {
+                        "height": null,
+                        "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84f519c6987b97c9253faa971c",
+                        "width": null
+                    }
+                ],
+                "name": "Photobook Of My Mistake",
+                "owner": {
+                    "display_name": "Cakes & Eclairs",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/acc3fnhjdy3wk54t35zhzbctr"
+                    },
+                    "href": "https://api.spotify.com/v1/users/acc3fnhjdy3wk54t35zhzbctr",
+                    "id": "acc3fnhjdy3wk54t35zhzbctr",
+                    "type": "user",
+                    "uri": "spotify:user:acc3fnhjdy3wk54t35zhzbctr"
+                },
+                "primary_color": null,
+                "public": true,
+                "snapshot_id": "AAADueRdL9ke52Wcix67Z5E1O31q1/gd",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/0mXaXYQRye5CkMQyNNZ7k6/tracks",
+                    "total": 125
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:0mXaXYQRye5CkMQyNNZ7k6"
+            }
+        ]
+    }
+}
